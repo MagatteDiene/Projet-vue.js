@@ -6,7 +6,7 @@
   <div class="greetings">
     <h1 class="green">Bienvenue ⚆_⚆</h1>
     <h3>
-      Ce site permet d'envoyer les données saisies sur la page 1 a la page 2 
+      Cette application permet d'envoyer les données saisies sur la page 1 a la page 2 
       
     </h3>
   </div>
